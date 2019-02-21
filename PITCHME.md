@@ -14,6 +14,6 @@ Hello gitslide
 
 ### 数式もいけるぞよ
 
- $$ \sum_{i = 1}^{N} A_{i} = 3 $$
+ $\sum_{i = 1}^{N} A_{i} = 3$
 
 
