@@ -12,4 +12,8 @@ Hello gitslide
 
 ---?code = main.cpp
 
+### 数式もいけるぞよ
+
+ $ \sum_{i = 1}^{N} A_{i} = 3 $
+
 
