@@ -1,6 +1,6 @@
 # slide
 
-### 1枚めのスライド
+### 
 自己紹介
 
 ---
@@ -9,4 +9,8 @@
 Hello gitslide
 
 ---
+### codesample
+
+---?code = main.cpp
+
 
